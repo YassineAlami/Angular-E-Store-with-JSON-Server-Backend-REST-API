@@ -7,14 +7,16 @@ Administrators have the authority to perform all administrative operations, incl
 
 On the other hand, customers can register and select items to purchase from a list of available products.
 
-<h3>Part 1 Video Simulation :</h3>
+<hr>
+
+<h2>Part 1 : <h2><h3>Video Simulation :</h3>
 
 
 https://github.com/YassineAlami/Angular-E-Store-with-JSON-Server-Backend-REST-API/assets/40896739/ae22cdc3-bdef-45c7-968a-4245dd5f4fa6
 
 <hr>
 
-
+<h3>Part 1 Video Simulation :</h3>
 
 
 
