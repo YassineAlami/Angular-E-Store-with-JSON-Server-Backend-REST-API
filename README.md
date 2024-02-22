@@ -57,7 +57,7 @@ In this stage we implemented a search functionality enabling users to filter pro
 https://github.com/YassineAlami/Angular-E-Store-with-JSON-Server-Backend-REST-API/assets/40896739/d222b1c2-179c-4ca0-9348-83f5af21a3f1
 
 
-<h1>WE WILL BE BACK SOON </h1>h1
+<h1>WE WILL BE BACK SOON </h1>
 
 
 
