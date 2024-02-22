@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "Computer Dell",
+      "price": "2300",
+      "checked": true,
+      "id": "1"
+    },
+    {
+      "name": "Phone Samsung",
+      "price": "1200",
+      "checked": true,
+      "id": "2"
+    },
+    {
+      "name": "Computer Lenovo",
+      "price": "1100",
+      "checked": false,
+      "id": "3"
+    },
+    {
+      "name": "Computer Apple",
+      "price": "1100",
+      "checked": false,
+      "id": "4"
+    },
+    {
+      "name": "Phone Apple",
+      "price": "1100",
+      "checked": true,
+      "id": "6"
+    },
+    {
+      "name": "Phone Google",
+      "price": "1100",
+      "checked": true,
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "name": "Test Phone",
+      "price": "12031",
+      "checked": true
+    },
+    {
+      "id": "5314",
+      "name": "Computer Dell",
+      "price": "2222",
+      "checked": false
+    }
+  ]
+}
